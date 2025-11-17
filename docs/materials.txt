@@ -5,3 +5,4 @@ STM32f411CEU6 https://aliexpress.ru/item/1005008680350153.html?sku_id=1200004621
 датчик линии ITR8307/S17/TR8B https://www.chipdip.ru/product/itr8307-s17-tr8b-smd-4p-reflective-optical-everlight-8040487088 7 шт
 драйвер DRV8833PWP https://www.chipdip.ru/product/drv8833pwpr-drayver-dvigateley-dvoynoy-texas-instruments-9001130278 1 шт
 компаратор LM339DR https://www.chipdip.ru/product/lm339dr-komparator-quad-rr-o-p-15-v-30-v-avtomobilnyy-umw-8033462203 2 шт
+разъем аккумулятора JST_2PIN-THM https://www.chipdip.ru/product/b2b-ph-k-s-gnezdo-provod-plata-papa-ph-2mm-pin-2-tht-jst-9001124660 1 шт
