@@ -6,3 +6,4 @@ STM32f411CEU6 https://aliexpress.ru/item/1005008680350153.html?sku_id=1200004621
 драйвер DRV8833PWP https://www.chipdip.ru/product/drv8833pwpr-drayver-dvigateley-dvoynoy-texas-instruments-9001130278 1 шт
 компаратор LM339DR https://www.chipdip.ru/product/lm339dr-komparator-quad-rr-o-p-15-v-30-v-avtomobilnyy-umw-8033462203 2 шт
 разъем аккумулятора JST_2PIN-THM https://www.chipdip.ru/product/b2b-ph-k-s-gnezdo-provod-plata-papa-ph-2mm-pin-2-tht-jst-9001124660 1 шт
+bluetooth модуль hc-05 https://aliexpress.ru/item/1005008963502863.html?sku_id=12000047388647490&spm=a2g2w.productlist.search_results.1.4c4b1098yXz2cE 1 шт
