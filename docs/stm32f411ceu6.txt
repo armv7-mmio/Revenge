@@ -1,3 +1,5 @@
 Пины:
-PA0-PA6 - ацп для чтения значений датчиков itr8307
-PA8-PA11 - шим T1CH1-T1CH4 таймера TIM1 для моторов
+PA0-PA6 - ацп для чтения значений датчиков itr8307 в af00 adc
+PA8-PA11 - шим T1CH1-T1CH4 для моторов в af01 TIM1
+PA15 и PB3 - usart1 для отладки по bluetooth в af07 usart1
+PA13-PA14 - swdio для stlink в af00
