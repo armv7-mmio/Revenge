@@ -9,3 +9,4 @@ STM32f411CEU6 https://aliexpress.ru/item/1005008680350153.html?sku_id=1200004621
 bluetooth модуль hc-05 https://aliexpress.ru/item/1005008963502863.html?sku_id=12000047388647490&spm=a2g2w.productlist.search_results.1.4c4b1098yXz2cE 1 шт
 ldo TPS73633DBVR https://www.chipdip.ru/product/tps73633dbvr-stabilizator-napryazheniya-texas-instruments-9001599992 1шт
 кнопки DTSM-62R-S-V-T/R https://www.chipdip.ru/product/dtsm-62r-s-v-t-r-6.2mm-5mm-round-button-50ma-diptronics-8048836120 2шт
+ir датчик nec vs1838B https://www.chipdip.ru/product/vs1838b-lfn-8010553236 1шт
