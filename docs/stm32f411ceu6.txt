@@ -4,3 +4,4 @@ PA8-PA11 - шим T1CH1-T1CH4 для моторов в af01 TIM1
 PA15 и PB3 - usart1 для отладки по bluetooth в af07 usart1
 PA13-PA14 - swdio для stlink в af00
 PB0 - ext0 прерывание для vs1838 nec декодинга
+PA7 - DRV8833 nSleep для включения/выключения драйвера
